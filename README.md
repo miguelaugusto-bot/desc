@@ -1,8 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou Miguel Augusto</h1>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://linkedin.com/in/miguel-augusto-nunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel nunes" height="30" width="40" /></a>
 </p>
+
+<img src="https://i.imgur.com/k3ZaNsi.gif" alt="patolido">
 
 <p>
   <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api?username=miguelaugusto-bot&show_icons=true&theme=dracula&locale=en" alt="joaozinsh" />
