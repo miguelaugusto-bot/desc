@@ -7,8 +7,8 @@
 <img src="https://i.imgur.com/k3ZaNsi.gif" alt="patolido">
 
 <p>
-  <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api?username=miguelaugusto-bot&show_icons=true&theme=dracula&locale=en" alt="joaozinsh" />
-  <img align="center" height="175em"src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelaugusto-bot&show_icons=true&theme=dracula&locale=en&layout=compact" alt="joaozinsh" />
+  <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api?username=miguelaugusto-bot&show_icons=true&theme=dracula&locale=en" alt="miguelaugusto-bot" />
+  <img align="center" height="175em"src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelaugusto-bot&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miguelaugusto-bot" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
